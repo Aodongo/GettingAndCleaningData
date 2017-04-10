@@ -1,0 +1,7 @@
+Code Book
+
+1.	“Activity”  consist of data from “Y_train.txt” and “Y_test.txt”
+2.	“Subject” consist of data from “subject_train.txt” and subject_test.txt"
+3.	“Features” consist of data from “X_train.txt” and “X_test.txt”
+4.	“Features”  consist of Name of features  “features.txt”
+5.	“Activity” consists of levels of Variables coming from “activity_labels.txt”
